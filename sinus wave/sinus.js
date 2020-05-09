@@ -73,4 +73,4 @@ function animate() {
 }
 
 animate()
-
+console.log("UPDATE");
